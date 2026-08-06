@@ -1,50 +1,67 @@
-# Hi there 👋, I'm Chris-Kingsley Chibueze
+# 👋 Hi, I'm Chris-Kingsley Chibueze
 
-## AI Prompt Engineer | AI Evaluator | UI/UX Designer | Graphic Designer 
+### AI Prompt Engineer • AI Evaluator • UI/UX Designer • Graphic Designer
 
-I am passionate about improving AI systems through prompt engineering, structured evaluation, and critical reasoning.
-
-My expertise spans AI evaluation, prompt optimization, UI/UX design, graphic design, and architecture. I enjoy building practical solutions that combine analytical thinking with user-centered design.
+I enjoy evaluating AI systems, designing effective prompts, and creating intuitive digital experiences. My GitHub showcases practical AI evaluation case studies, prompt engineering projects, and design work.
 
 ---
 
-### Core Skills
+## 🚀 Current Focus
 
-- Prompt Engineering
-- AI Evaluation
-- LLM Response Analysis
-- Prompt Optimization
-- UI/UX Design
-- Graphic Design
-  
+- 🤖 AI Evaluation
+- ✍️ Prompt Engineering
+- 🧠 LLM Benchmarking
+- 🎨 UI/UX Design
+- 🖌️ Graphic Design
+
 ---
 
-### Skills
+## 🛠️ Skills & Tools
 
-![Github](https://img.shields.io/badge/Github)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20engineering%20)
-![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=for-the-badge)
+### AI
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74AA9C?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+### Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
-### AI Models
+## 📂 Featured Projects
 
-- ChatGPT
-- Claude
-- Gemini
-- Microsoft Copilot
-- Perplexity AI
-  
+- 📘 AI Evaluation Portfolio
+- 🧠 Prompt Engineering Portfolio
+- 📖 AI Evaluation Handbook
+- 🧪 LLM Testing
+- 🎨 UI/UX Case Studies
+- 🖼️ Graphic Design Portfolio
+
 ---
 
-### Let's Connect
+## 📈 Currently Learning
+
+- Human Preference Evaluation
+- AI Quality Assurance
+
+---
+
+## 📫 Connect With Me
 
 - GitHub: https://github.com/ChrisKay7
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: *(Add your LinkedIn URL)*
+- Email: *(chriskingsleychibueze@gmail.com)*
+
+---
+
+> *"Technology becomes truly powerful when it is accurate, reliable, and designed with people in mind."*
