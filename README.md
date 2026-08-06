@@ -16,10 +16,16 @@ My expertise spans AI evaluation, prompt optimization, UI/UX design, graphic des
 - Prompt Optimization
 - UI/UX Design
 - Graphic Design
+  
+---
+
+### Skills
+
+- Prompt Engineering
+- AI Evaluation
 - Figma
-- Adobe Photoshop
-- Adobe Illustrator
-- Canva
+- Photoshop
+- Illustrator
 
 ---
 
@@ -30,16 +36,7 @@ My expertise spans AI evaluation, prompt optimization, UI/UX design, graphic des
 - Gemini
 - Microsoft Copilot
 - Perplexity AI
-
----
-
-### Currently Building
-
-- AI Evaluation Portfolio
-- Prompt Engineering Portfolio
-- LLM Testing Projects
-- UI/UX Case Studies
-
+  
 ---
 
 ### Let's Connect
