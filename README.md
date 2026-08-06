@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="GitHub Banner" width="100%">
+</p>
 # 👋 Hi, I'm Chris-Kingsley Chibueze
 
 ### AI Prompt Engineer • AI Evaluator • UI/UX Designer • Graphic Designer
