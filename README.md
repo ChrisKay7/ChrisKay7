@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/Github-banner.png" alt="Chris-Kingsley GitHub Banner" width="100%">
-</p>
+<img width="1080" height="540" alt="Github-banner" src="https://github.com/user-attachments/assets/c3a68c62-17e8-456a-881d-e232e47c8764" />
 
 # 👋 Hi, I'm Chris-Kingsley Chibueze
 
