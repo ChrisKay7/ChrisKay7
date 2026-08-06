@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner.png" alt="GitHub Banner" width="100%">
+  <img src="assets/github-banner.png" alt="Chris-Kingsley GitHub Banner" width="100%">
 </p>
 # 👋 Hi, I'm Chris-Kingsley Chibueze
 
