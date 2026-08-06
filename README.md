@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Chris-Kingsley Chibueze
 
-## AI Prompt Engineer | AI Evaluator | UI/UX Designer | Graphic Designer | Architectural Designer
+## AI Prompt Engineer | AI Evaluator | UI/UX Designer | Graphic Designer 
 
 I am passionate about improving AI systems through prompt engineering, structured evaluation, and critical reasoning.
 
